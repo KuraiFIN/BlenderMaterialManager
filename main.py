@@ -1,6 +1,7 @@
 # Adds common sense basic functions and:
 # Allows selection/addition/access of uv_maps, materials, textures, vertex groups
 # Useful for reusing meshes to juggle several uniquely textured variants of said model, and store and switch between them quickly
+# Auto-calculation of object-relations (like walls made of different parts) in development which will allow smart recalculation of uv maps
 
 import bpy
 import math
