@@ -747,5 +747,7 @@ append_material('new_material')
 TODO STILL:
     *Align UV islands spanning 0-1 for objects in wall
     *Add function to bake from one uvmap to the next (I had one lying around here somewhere...)
+    *Make nice functions that make use of these functions
+    *Make buttons for easier use
     
 """
